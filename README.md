@@ -5,3 +5,5 @@ By accurately analysing the emotions expressed in text journal entries, the syst
 Additionally, the emotion detection system can be leveraged to notify the need for professional intervention, such as connecting users with a counsellor when necessary.
 
 The Emotions dataset for NLP and Emotions in Text datasets on Kaggle have been used to train the models. 
+
+The GloVe vectors can be found on kaggle : https://www.kaggle.com/datasets/rtatman/glove-global-vectors-for-word-representation
