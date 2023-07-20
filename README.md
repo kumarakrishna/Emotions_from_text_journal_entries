@@ -1,3 +1,4 @@
+# EMOTION DETECTION FROM TEXT JOURNAL ENTRIES
 
 Emotional well-being is of paramount importance, especially during adolescence, as it profoundly influences overall mental health. To address the challenges teenagers face in effectively expressing and understanding their emotions, the Masth app was designed to offer personalized mental health support and a safe space for emotional expression.
 
